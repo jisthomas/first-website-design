@@ -1,0 +1,25 @@
+#wrapper{width:100%;font-family:Georgia;}
+#header{text-align:center;width:100%;height:100px;}
+#mobilemenu{visibility:hidden;}
+#left{width:11.5%;float:left;}
+#otherpagelinks{width:10%;float:left;padding-left:2px;padding-top:2px;padding-right:2px;padding-bottom:2px;min-width:148px;}
+#socialmedialinks{width:10%;float:left;padding-top:2px;padding-right:2px;padding-bottom:2px;padding-left:2px;min-width:148px;}
+#content{width:70%;float:left;padding-left:30px; padding-right:10px;min-width:650px;}
+#footer{text-align:center;font-size:15px;width:100%;}
+#menulist {margin: 0;padding: 0;}
+.logo {float:center;width:45px;height:50px;text-align:justify;}
+/*Reference from http://www.w3schools.com/css/tryit.asp?filename=trycss3_media_queries2*/
+.menuitem {background:#e9ebee;border: 5px; border-radius: 2px;list-style-type: none;margin: 4px;padding: 4px;}
+/*display image in center on main page*/
+.img {display: block;
+    margin: 0 auto;}
+ /*Application of General Rule*/
+h1,h2,h3{color:purple;}
+.footerinfo{font-style:italic;}
+a{color:blue;text-decoration:none;}
+a:hover{color:blue;text-decoration:underline;}
+body{background-color:#fef9e7;}
+/* for contact us page*/
+#pagewrap {width: 660px;	background: #e9ebee;padding: 20px 50px 20px 50px;margin: 20px auto;min-height: 500px;height: 500px;}
+.heading{text-align:center;width:100%;color:Black;height:40px;}
+
